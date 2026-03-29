@@ -10,6 +10,7 @@ xsi:schemaLocation= "https://sammantha4203.github.io/cse445-assignment4 https://
 		<Name>Grand Canyon</Name>
 		<Phone>928-638-7496</Phone>
 		<Phone>888-297-2757</Phone>
+		<Phone>888-234-2121</Phone>
 		<Address NearestAirport="Flagstaff">
 			<Number>8</Number>
 			<Street>S Entrance Road</Street>
