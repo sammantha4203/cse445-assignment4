@@ -3,7 +3,7 @@
 <NationalParks 
 	xmlns="https://sammantha4203.github.io/cse445-assignment4"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:noNamespaceSchemaLocation= "https://sammantha4203.github.io/cse445-assignment4/NationalParks.xml">
+xsi:schemaLocation= "https://sammantha4203.github.io/cse445-assignment4 https://sammantha4203.github.io/cse445-assignment4/NationalParks.xsd">
 
 
 	<NationalPark Rating="4.9">
