@@ -4,6 +4,8 @@
 	xmlns:xs="http://www.w3.org/2001/XMLSchema">
 	xmlns="https://sammantha4203.github.io/cse445-assignment4"
 	targetNamespace="https://sammantha4203.github.io/cse445-assignment4"
+	elementFormDefault="qualified"
+	attributeFormDefault="unqualified">
 
 	<xs:element name="NationalParks">
 		<xs:complexType>
